@@ -1,0 +1,34 @@
+/*Write your CSS in here*/
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900);
+
+
+h1 {
+    font-size: 70;
+    font-weight: 200;
+    text-transform: uppercase;
+    border-top: 5px solid;
+}
+
+body{
+    background-color:#F69680;
+    color: #2E1263;
+    font-family: "Source Code Pro";
+    font-weight: 200;
+}
+
+img {
+    height: 500px;
+    border-radius: 50%;
+}
+
+#container {
+    display: flex:
+    flex: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+}
+
+button {
+    background-color: 
+}
